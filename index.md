@@ -17,6 +17,6 @@ Ph.D. candidate specializing in optimal control design with extensive experience
 ### Links
 - 📧 [Email](mailto:mohammadsarbaz@ou.edu)  
 - 🎓 [Google Scholar](https://scholar.google.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohammadsarbaz)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-sarbaz-94256b1b7/)  
 - 💻 [GitHub](https://github.com/sarbaz-mohammad)  
 - 📄 [CV](assets/CV_Academic.pdf)  
