@@ -10,11 +10,7 @@ title: "Home"
 University of Oklahoma  
 
 
-Ph.D. candidate specializing in optimal control design with extensive experience in Deep Learning, Reinforcement Learning,
-Trajectory Planning, Motion Planing, Model Predictive Control, Robust Control, Distributed Systems, and Robotic Systems.
-Skilled in developing Intelligent Control algorithms for Electrical Systems, Aircrafts, Unmanned Aerial Vehicles (UAVs), and
-Autonomous Systems. Expert in applying Machine Learning methods including Deep Learning and Reinforcement Learning
-to Control Systems and enhancing the design of Learning-Based Control strategies for Complex and Uncertain Systems.  
+Ph.D. candidate specializing in optimal control design with extensive experience in Deep Learning, Reinforcement Learning, Trajectory Planning, Motion Planing, Model Predictive Control, Robust Control, Distributed Systems, and Robotic Systems. Skilled in developing Intelligent Control algorithms for Electrical Systems, Aircrafts, Unmanned Aerial Vehicles (UAVs), and Autonomous Systems. Expert in applying Machine Learning methods including Deep Learning and Reinforcement Learning to Control Systems and enhancing the design of Learning-Based Control strategies for Complex and Uncertain Systems.  
 
 ---
 
