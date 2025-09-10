@@ -12,8 +12,8 @@ University of Oklahoma
 ---
 
 ### Links
-- 📧 [Email](mailto:mohammadsarbaz@ou.edu)  
+- 📧 [Email](mailto:mohammad.sarbaz@ou.edu)  
 - 🎓 [Google Scholar](https://scholar.google.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohammadsarbaz)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-sarbaz-94256b1b7/)  
 - 💻 [GitHub](https://github.com/sarbaz-mohammad)  
 - 📄 [CV](assets/CV_Academic.pdf)  
