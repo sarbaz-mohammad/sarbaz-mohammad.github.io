@@ -1,8 +1,9 @@
 ---
 layout: default
 title: "Home"
----
 <img src="assets/profile.jpg" align="right" width="200" style="margin-top:-90px;">
+
+---
 
 # Mohammad Sarbaz
 **PhD Candidate in Mechanical Engineering**  
@@ -10,6 +11,7 @@ University of Oklahoma
 
 I am a PhD candidate specializing in **control systems, Differential Dynamic Programming (DDP), robust and game-theoretic optimal control, and robotics**.  
 My research focuses on developing advanced control algorithms for nonlinear and uncertain systems, with applications in UAVs, pursuit-evasion games, and large-scale distributed networks.  
+---
 
 ### Links
 - 📧 [Email](mailto:mohammadsarbaz@ou.edu)  
