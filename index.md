@@ -29,4 +29,6 @@ Ph.D. candidate specializing in optimal control design with extensive experience
 - [March 2024] Our paper "Model Predictive Control for Interval Type-2 Fuzzy Systems with Unknown Time-Varying Delay in States and Input Vector" has been accepted to "International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems".
 - [January 2024] Our paper "Min-max adaptive dynamic programming for zero-sum differential games" has been accepted to "International Journal of Control".
 - [March 2023] I successfully defended my ACR and transferred all Master degree courses to the PhD.
-- [Sugust 2022] I have started the Phd in School of Aerospace and Mechanical Engineering, Universoty of Oklahoma, Advanced Control and Robotics Lab, under supervision of Professor Wei Sun. 
+- [Sugust 2022] I have started the Phd in School of Aerospace and Mechanical Engineering, Universoty of Oklahoma, Advanced Control and Robotics Lab, under supervision of Professor Wei Sun.
+---
+  ### Project
