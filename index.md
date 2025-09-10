@@ -22,11 +22,11 @@ Ph.D. candidate specializing in optimal control design with extensive experience
 - 📄 [CV](assets/CV_Academic.pdf)  
 ---
 ### Recent News
--[September 2025] Our paper "Data-Driven Min-Max Differential Dynamic Programming for Nonlinear Systems" has been accepted to "Journal of Guidance Control and Dynamics".
--[April 2025] Our paper "Data-Driven Stochastic Game Theoretic Differential Dynamic Programming" has been accepted to "International Journal of Robust and Nonlinear Control".
--[March 2025] Our paper "Sliding mode observer-based min-max differential dynamic programming for output feedback differential games" has been accepted to "International Journal of Control".
--[April 2024] I successfully defended my general exam and promoted to PhD candidate. 
--[March 2024] Our paper "Model Predictive Control for Interval Type-2 Fuzzy Systems with Unknown Time-Varying Delay in States and Input Vector" has been accepted to "International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems".
--[January 2024] Our paper "Min-max adaptive dynamic programming for zero-sum differential games" has been accepted to "International Journal of Control".
--[March 2023] I successfully defended my ACR and transferred all Master degree courses to the PhD.
--[Sugust 2022] I have started the Phd in School of Aerospace and Mechanical Engineering, Universoty of Oklahoma, Advanced Control and Robotics Lab, under supervision of Professor Wei Sun. 
+- [September 2025] Our paper "Data-Driven Min-Max Differential Dynamic Programming for Nonlinear Systems" has been accepted to "Journal of Guidance Control and Dynamics".
+- [April 2025] Our paper "Data-Driven Stochastic Game Theoretic Differential Dynamic Programming" has been accepted to "International Journal of Robust and Nonlinear Control".
+- [March 2025] Our paper "Sliding mode observer-based min-max differential dynamic programming for output feedback differential games" has been accepted to "International Journal of Control".
+- [April 2024] I successfully defended my general exam and promoted to PhD candidate. 
+- [March 2024] Our paper "Model Predictive Control for Interval Type-2 Fuzzy Systems with Unknown Time-Varying Delay in States and Input Vector" has been accepted to "International Journal of Uncertainty, Fuzziness and Knowledge-Based Systems".
+- [January 2024] Our paper "Min-max adaptive dynamic programming for zero-sum differential games" has been accepted to "International Journal of Control".
+- [March 2023] I successfully defended my ACR and transferred all Master degree courses to the PhD.
+- [Sugust 2022] I have started the Phd in School of Aerospace and Mechanical Engineering, Universoty of Oklahoma, Advanced Control and Robotics Lab, under supervision of Professor Wei Sun. 
