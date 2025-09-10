@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Home"
+title: 
 ---
 
 # Mohammad Sarbaz
-**PhD Candidate in Mechanical Engineering**  
+**PhD Candidate, School of Aerospace and Mechanical Engineering**  
 <img src="assets/profile.jpg" align="right" width="200">
 
 University of Oklahoma  
