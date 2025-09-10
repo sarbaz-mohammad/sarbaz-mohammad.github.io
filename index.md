@@ -19,8 +19,10 @@ Ph.D. candidate specializing in optimal control design with extensive experience
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=St87OnMAAAAJ&hl=en)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-sarbaz-94256b1b7/)  
 - 💻 [GitHub](https://github.com/sarbaz-mohammad)  
-- 📄 [CV](assets/CV_Academic.pdf)  
+- 📄 [CV](assets/CV_Academic.pdf)
+
 ---
+
 ### Recent News
 - [September 2025] Our paper "Data-Driven Min-Max Differential Dynamic Programming for Nonlinear Systems" has been accepted to "Journal of Guidance Control and Dynamics".
 - [April 2025] Our paper "Data-Driven Stochastic Game Theoretic Differential Dynamic Programming" has been accepted to "International Journal of Robust and Nonlinear Control".
