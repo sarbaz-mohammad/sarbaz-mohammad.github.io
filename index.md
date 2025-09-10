@@ -6,7 +6,6 @@ title: "Home"
 # Mohammad Sarbaz
 **PhD Candidate in Mechanical Engineering**  
 University of Oklahoma  
-
 <img src="assets/profile.jpg" align="right" width="200">
 
 I am a PhD candidate specializing in **control systems, Differential Dynamic Programming (DDP), robust and game-theoretic optimal control, and robotics**.  
