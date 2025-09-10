@@ -18,7 +18,7 @@ My research focuses on developing advanced control algorithms for nonlinear and 
 [Google Scholar](https://scholar.google.com) /  
 [LinkedIn](https://www.linkedin.com/in/mohammadsarbaz) /  
 [GitHub](https://github.com/sarbaz-mohammad) /  
-[CV](assets/CV.pdf)  
+[CV](assets/CV_Academic.pdf)  
 
   </div>
   <div style="margin-left: 20px;">
